@@ -1,0 +1,15 @@
+---
+title: "wEEK_1"
+author: "saitEJA"
+date: "2023-05-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{R my first chunk}
+head(Titanic)
+
+```
